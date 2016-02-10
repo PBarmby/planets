@@ -1,2 +1,2 @@
 # planets
-For testing purposes
+For testing purposes - fork this repository and try making a pull request!
