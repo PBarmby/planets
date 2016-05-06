@@ -1,0 +1,8 @@
+excellent git documentation
+https://www.git-scm.com/docs
+
+conventions:
+* commit messages
+http://www.tpope.net/node/106
+http://stackoverflow.com/questions/2290016/git-commit-messages-50-72-formatting
+
